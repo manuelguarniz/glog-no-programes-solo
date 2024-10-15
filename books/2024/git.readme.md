@@ -52,5 +52,5 @@ Para empezar a trabajar hay que conocer el flujo basico de trabajo, se describe 
 
    ![1728970958989](image/git.readme/1728970958989.png)
 
-> .[!IMPORTANT].
+> [!IMPORTANT]
 > Si trabajas en el proyeto de alguien más, necesitarás permiso para subir tu rama al repositorio.
