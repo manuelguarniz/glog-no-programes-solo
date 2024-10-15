@@ -48,4 +48,9 @@ Para empezar a trabajar hay que conocer el flujo basico de trabajo, se describe 
 5. Escribe codigo, prueba, revisa y describe que estas haciendo
 
    ![1728970752342](image/git.readme/1728970752342.png)
-6. asd
+6. Sube tu codigo para que los demas pueda descargarlo
+
+   ![1728970958989](image/git.readme/1728970958989.png)
+
+> .[!IMPORTANT].
+> Si trabajas en el proyeto de alguien más, necesitarás permiso para subir tu rama al repositorio.
