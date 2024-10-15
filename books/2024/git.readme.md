@@ -45,4 +45,7 @@ Para empezar a trabajar hay que conocer el flujo basico de trabajo, se describe 
 4. Crear una rama `develop`
 
    ![1728970392323](image/git.readme/1728970392323.png)
-5. Escribe codigo, prueba, revisa y dale un nombre
+5. Escribe codigo, prueba, revisa y describe que estas haciendo
+
+   ![1728970752342](image/git.readme/1728970752342.png)
+6. asd
