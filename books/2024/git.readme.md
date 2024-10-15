@@ -27,7 +27,7 @@ Git es una herramienta para gestionar versiones de un proyecto, principalmente p
 
 Para empezar a trabajar hay que conocer el flujo basico de trabajo, se describe en la siguente imagen.
 
-![1728968504188](image/git.readme/1728968504188.png)
+![1728969613682](image/git.readme/1728969613682.png)
 
 1. La forma mas simple es utilizar herramientas que nos ayude a entender como trabajar en equipo, entre muchas herramientras yo prefiero utilizar [Sourcetree](https://www.sourcetreeapp.com/).
 
