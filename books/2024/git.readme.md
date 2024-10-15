@@ -32,3 +32,17 @@ Para empezar a trabajar hay que conocer el flujo basico de trabajo, se describe 
 1. La forma mas simple es utilizar herramientas que nos ayude a entender como trabajar en equipo, entre muchas herramientras yo prefiero utilizar [Sourcetree](https://www.sourcetreeapp.com/).
 
 ![1728969421787](image/git.readme/1728969421787.png)
+
+### Ejemplo
+
+1. Instalar Git (hay un monton de videos en youtube para eso 🙂)
+2. Clonar repositorio
+
+   ![1728970199443](image/git.readme/1728970199443.png)
+3. Abrir proyecto y dar un vistazo a la historia
+
+   ![1728970038224](image/git.readme/1728970038224.png)
+4. Crear una rama `develop`
+
+   ![1728970392323](image/git.readme/1728970392323.png)
+5. Escribe codigo, prueba, revisa y dale un nombre
