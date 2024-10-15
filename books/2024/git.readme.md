@@ -36,19 +36,20 @@ Para empezar a trabajar hay que conocer el flujo basico de trabajo, se describe 
 ### Ejemplo
 
 1. Instalar Git (hay un monton de videos en youtube para eso 🙂)
-2. Clonar repositorio
+2. Registrarse en github
+3. Clonar repositorio
 
    ![1728970199443](image/git.readme/1728970199443.png)
-3. Abrir proyecto y dar un vistazo a la historia
+4. Abrir proyecto y dar un vistazo a la historia
 
    ![1728970038224](image/git.readme/1728970038224.png)
-4. Crear una rama `develop`
+5. Crear una rama `develop`
 
    ![1728970392323](image/git.readme/1728970392323.png)
-5. Escribe codigo, prueba, revisa y describe que estas haciendo
+6. Escribe codigo, prueba, revisa y describe que estas haciendo
 
    ![1728970752342](image/git.readme/1728970752342.png)
-6. Sube tu codigo para que los demas pueda descargarlo
+7. Sube tu codigo para que los demas pueda descargarlo
 
    ![1728970958989](image/git.readme/1728970958989.png)
 
