@@ -36,20 +36,21 @@ Para empezar a trabajar hay que conocer el flujo basico de trabajo, se describe 
 ### Ejemplo
 
 1. Instalar Git (hay un monton de videos en youtube para eso 🙂)
-2. Registrarse en github
-3. Clonar repositorio
+2. Instalar [SourceTree](https://www.sourcetreeapp.com/)
+3. Registrarse en github
+4. Clonar repositorio
 
    ![1728970199443](image/git.readme/1728970199443.png)
-4. Abrir proyecto y dar un vistazo a la historia
+5. Abrir proyecto y dar un vistazo a la historia
 
    ![1728970038224](image/git.readme/1728970038224.png)
-5. Crear una rama `develop`
+6. Crear una rama `develop`
 
    ![1728970392323](image/git.readme/1728970392323.png)
-6. Escribe codigo, prueba, revisa y describe que estas haciendo
+7. Escribe codigo, prueba, revisa y describe que estas haciendo
 
    ![1728970752342](image/git.readme/1728970752342.png)
-7. Sube tu codigo para que los demas pueda descargarlo
+8. Sube tu codigo para que los demas pueda descargarlo
 
    ![1728970958989](image/git.readme/1728970958989.png)
 
